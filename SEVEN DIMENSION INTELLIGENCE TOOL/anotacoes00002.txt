@@ -1,0 +1,47 @@
+Para calcularmos a média de átomos ao quadrado em uma estrutura como uma catedral de médio a grande porte, podemos partir do valor aproximado da densidade atômica dos materiais principais da catedral, como a alvenaria (geralmente composta de cimento, areia, água e pedras) e o mármore (principalmente calcita, ou CaCO3). O valor final pode depender de muitos fatores, incluindo as dimensões da catedral e a composição específica dos materiais, mas vamos simplificar o cálculo para ilustrar o processo.
+
+Passos para o cálculo:
+
+1. Definir a Densidade Atômica dos Materiais:
+
+Alvenaria: Aproximadamente  trilhões de átomos/m³ ao quadrado, para representar sua densidade como material de construção.
+
+Mármore: Tem uma densidade atômica similar, pois é um material sólido e denso, mas a estrutura atômica é menos compacta que a alvenaria pura.
+
+
+
+2. Aplicar a Potência de 100 ao Quadrado de 10:
+
+Se interpretarmos "100 ao quadrado de 10" como , o cálculo atômico é vasto, pois estamos lidando com um número exponencial.
+
+
+
+3. Calcular a Média de Densidade Atômica ao Quadrado:
+
+Consideramos os materiais alvenaria e mármore e elevamos seus valores médios ao quadrado para representar a composição densa.
+
+Vamos simplificar para uma média aproximada, assumindo que ambos os materiais têm uma densidade aproximada de  trilhões de átomos/m³.
+
+
+
+
+Cálculo em Python
+
+Abaixo está o código Python para estimar o número de átomos com base nesses dados:
+
+# Dados da densidade atômica dos materiais (em trilhões de átomos por m³)
+densidade_alvenaria = 0.803  # trilhões de átomos/m³
+densidade_marmore = 0.803  # trilhões de átomos/m³
+
+# Cálculo do número de átomos ao quadrado com a potência de 100 ao quadrado de 10
+potencia = 100 ** 10
+numero_atomico_medio = ((densidade_alvenaria + densidade_marmore) / 2) ** 2 * potencia
+
+print(f"Número de átomos ao quadrado de uma catedral média: {numero_atomico_medio:.2e} trilhões de átomos ao quadrado")
+
+Explicação dos Resultados
+
+Este código gera o número total de átomos ao quadrado, considerando a média das densidades atômicas dos materiais alvenaria e mármore e elevando-o conforme a potência. O valor final nos dá uma noção da densidade atômica total da estrutura, que pode ser interpretado como uma estimativa simplificada da quantidade de átomos ao quadrado em uma catedral de médio a grande porte feita de alvenaria e mármore.
+
+Isso significa que, sim, a composição básica dos dois elementos, alvenaria e mármore, contribui para a densidade estrutural significativa de uma catedral.
+
