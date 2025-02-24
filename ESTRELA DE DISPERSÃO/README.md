@@ -38,3 +38,17 @@ A Estrela de Dispersão, com sua nova capacidade de interagir com sistemas biol�
 ### Considerações
 
 A Estrela de Dispersão, com seu foco expandido para biohacking e engenharia genética, é uma ferramenta poderosa com potencial para revolucionar o campo da cyberwarfare. No entanto, seu uso requer conhecimento especializado em mecânica quântica, física quântica, engenharia matemática, biologia e genética, além de uma compreensão profunda dos princípios e aplicações da ferramenta.
+
+___________________________________________________________________###__________________________
+
+https://renan21002200.wixsite.com/renansantoscyberseo
+
+https://counterintelligencecoursescybernetics.wordpress.com/
+
+https://cyberwarfarecounterintelligence.wordpress.com/
+
+https://cyberaptsecurity.wordpress.com/
+
+https://darkstrikaptevilcorpcounterintelligency.wordpress.com/
+
+https://safehousessecurity.wordpress.com/
